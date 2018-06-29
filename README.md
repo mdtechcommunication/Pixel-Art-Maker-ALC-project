@@ -16,6 +16,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 
-How to get started :-
+##How to get started :-
 
 Click on this <a href="https://sanusimd.github.io/Pixel-Art-Maker-ALC-project/">LINK</a> to Visit the live version of the website.
